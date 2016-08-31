@@ -21,6 +21,11 @@ Our school channels are all public channels. We don’t believe in “closed” 
 
 ## Part 1: Social Media as a School
 
+### Our Aims
+* To increase communication between the school and parents/carers.
+* To lead from the front and educate our children on best practice when using social media.
+* To share and promote our school brand online.
+
 ### Types of Social Networks
 
 There are many different social networks, each with a different mission, potential audience and uses. It is unrealistic to assume that we should use every single social network as a school – it would be too time consuming and difficult to manage – but we have considered each platform and actively use those that are most suitable for us and our circumstances.
