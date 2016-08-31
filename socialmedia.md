@@ -90,6 +90,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Content must be posted to official school accounts only.
 * Any photographs or videos taken within school grounds, or during school time, must only be posted to a school account.
 * Photographs or videos taken during a school related activity, (which includes, but is not limited to: extra-curricular activites, school trips and sports events at other schools) must be posted on official school accounts only.
+
 ##### Should
 * There should not be any content posted by the school to a private page or closed group.
 * All posts should be considered public, regardless of where they are posted, and should be treated as such.
@@ -102,7 +103,8 @@ The school will actively post on the following social networks: __Facebook, Twit
 *	For safety, we have our own 'photo word' which must be said at all times before a photo is taken. This word is iconic to our school and is used to ensure all children know a photo is going to be taken. Our photo word is __“Swan”__.
 *	There must not be any media posted which contains a single, identifiable child.
 *	There must not be any media posted which contains identifiable features, such as name badges, name stickers on books, and so on.
-*	Employees must not post anything which may bring the school into disrepute or portray the school in a negative light.
+*	Employees must not post anything which may bring the school into disrepute or portray the school in a negative light
+
 ##### Should
 *	Where practical, children should be shown the photo after it is taken, before it is posted online.
 
@@ -122,6 +124,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 ##### Must
 *	Passwords to school social networking accounts must remain safe and secure at all times.
 *	For accountability purposes, passwords must not be shared between employees.
+
 ##### Should
 *	Social Networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. This is to ensure that full accountability exists and that there is an audit trail of who has approved and posted online.
 
