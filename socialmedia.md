@@ -85,52 +85,76 @@ The school will actively post on the following social networks: __Facebook, Twit
 
 ### General Rules and Restrictions
 
-#### Posting on Social Media
+#### Posting to Social Media
+##### Must
 * Content must be posted to official school accounts only.
+* Any photographs or videos taken within school grounds, or during school time, must only be posted to a school account.
+* Photographs or videos taken during a school related activity, (which includes, but is not limited to: extra-curricular activites, school trips and sports events at other schools) must be posted on official school accounts only.
+##### Should
 * There should not be any content posted by the school to a private page or closed group.
 * All posts should be considered public, regardless of where they are posted, and should be treated as such.
-* There are no restrictions on who can share the content posted to official school accounts.
-* Any photographs or videos taken within school grounds, or during school time, must only be posted to a school account.
-* Photographs or videos taken during a school related activity, which includes, but is not limited to: extra-curricular activites, school trips and sports events at other schools, must be posted on official school accounts only.
 
 #### Photographs and Video
-* Media must be posted to school accounts only.
+##### Must
+* Media must be posted to official school accounts only.
 * If the school keep a list of children who do not have parental consent to be online, this must be cross referenced before every post.
-*	All children must be made aware a photo/video is being taken.
-*	We have our own “photo word” which must be said at all times before a photo is taken. This word is iconic to our school and is used to ensure all children know a photo is going to be taken. Our photo word is __“Swan”__.
-*	Children should always be shown the photo after it is taken.
+*	All children must be made aware a photo/video is being taken prior to doing so.
+*	For safety, we have our own 'photo word' which must be said at all times before a photo is taken. This word is iconic to our school and is used to ensure all children know a photo is going to be taken. Our photo word is __“Swan”__.
 *	There must not be any media posted which contains a single, identifiable child.
 *	There must not be any media posted which contains identifiable features, such as name badges, name stickers on books, and so on.
 *	Employees must not post anything which may bring the school into disrepute or portray the school in a negative light.
+##### Should
+*	Where practical, children should be shown the photo after it is taken, before it is posted online.
 
 #### Engaging with Parents and Pupils
-*	Employees should not engage with parents or pupils via a closed or private account.
-*	All interactions should be in the form of publicly visible actions, such as 'like', 'favourite', 'share'.
-*	If private communication should happen, for example by a parent sending a private Facebook message, employees must ensure responses are via offical school accounts only.
-*	Staff are encouraged to engage and reply where possible via the official school accounts to increase engagement with others.
+##### Must
+*	If a user contacts an official school account via a private channel, (for example: a parent sending a private Facebook message), employees must ensure responses are made via offical school accounts only.
+
+##### Should
+*	Employees should not engage with parents or pupils via a closed or private account unless in the circumstances above.
+*	Where possible, all interactions should be in the form of publicly visible actions, such as 'like', 'favourite', 'share'.
+
+##### May
+*	Employees may engage and reply where possible via the official school accounts to increase engagement with others.
+*	Employees may share the content posted to official school accounts on their own accounts if they wish to.
 
 #### Passwords
-*	Passwords to school social networking accounts must remain safe and secure at all times. For accountability, passwords must not be shared between employees.
-*	Social Networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. This is to ensure that full accountability exists.
+##### Must
+*	Passwords to school social networking accounts must remain safe and secure at all times.
+*	For accountability purposes, passwords must not be shared between employees.
+##### Should
+*	Social Networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. This is to ensure that full accountability exists and that there is an audit trail of who has approved and posted online.
 
 #### Permissions
-*	Unless stated otherwise in an employment contract, all media and IP (intellectual property) remains the property of the person who created the media. By posting the content to a school account, permission is granted to the school to use the media under the Creative Commons License.
+##### Must
 *	All media posted must be owned by the person uploading, or the organisation they work for, before it can be uploaded.
+*	Unless stated otherwise in an employment contract, all media and IP (intellectual property) remains the property of the person who created the media. By posting the content to a school account, permission is granted to the school to use the media under the Creative Commons License.
 
 #### Managing Social Networks
-*	We have assigned our social media specialist as __Mr Anonymous__.
-* Staff should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy. 
+##### Should
+* Staff should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy.
+*	We have assigned our social media specialist as __Mr Anonymous__ who should be made available to answer queries.
 
-## Part 2: Protecting our Staff Online
+## Part 2: Protecting our Employees Online
 
-### General Rules for Employees
-* Employees may have personal accounts on any social networks they choose, but must follow the rules outlined in this section and must not attempt to impersonate the school through an unofficial or spoof account.
-*	Where possible, all social media accounts which are personal to staff members should have two factor authentication on their account to avoid misuse by others.
-*	Passwords on personal accounts must remain private and not be shared. It is advised that passwords should be changed every three months.
+### Personal Accounts on Social Networks
+##### Must
+* Employees are allowed to have personal accounts on any social networks they choose, but must follow the rules outlined in this section.
+* Employees must not attempt to impersonate the school through an unofficial or spoof account.
+* Passwords on personal accounts must remain private and not be shared.
+
+#### Should
 *	Employees should always treat posts as public, even if an account has privacy settings enabled, as posts can always be screenshotted and shared. 
 *	Employees should not connect with parents and carers who are associated with the school via their own personal accounts.
-*	Employees may use personal devices to create content for social media, but any content must not be kept on the device for longer than the minimum amount of time feasible, up to a maximum of a week.
+
+### Security
+##### Must
 *	Any personal devices used to hold content from school must be secured with a password or pin.
+*	Employees are permitted to use personal devices to create content for social media, but any content must not be kept on the device for longer than the minimum amount of time feasible, up to a maximum of a week.
+
+##### Should
+* Where possible, all social media accounts which are personal to staff members should have two factor authentication on their account to avoid misuse by others.
+* We advise that passwords should be changed every three months.
 
 ## Part 3: Complaints
 If you feel that this policy is not being followed in some way, please let us know by contacting __the school office__.
