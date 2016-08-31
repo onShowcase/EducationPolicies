@@ -17,10 +17,10 @@ Social media use is increasing worldwide, particularly in the younger generation
 
 We foster the mentality that everything should be open, transparent and public. Despite many social networks having the option to become 'private' channels, we’re fully aware that nothing online is truly private and we strive to educate our children on this viewpoint.
 
-Our school channels are all public channels. We don’t believe in “closed” or “private” groups, as this fosters the mentality of it being okay to have private conversations online, which goes against what we teach our children with regard to online safety and talking to strangers.
+Our school channels are all public channels. We don’t believe in closed or private groups, as this fosters the mentality of it being okay to have private conversations online, which goes against what we teach our children with regard to online safety and talking to strangers.
 
 ## Our Aims
-We three core aims for using social media within the school and every action we take should be to support one or more of these aims.
+We have three core aims for using social media within school and every action we take should be to support one or more of these aims.
 They are:
 * To increase engagement between the school and parents/carers.
 * To lead from the front and educate our children on best practice when using social media.
@@ -50,19 +50,19 @@ The school will actively post on the following social networks: __Facebook, Twit
 
 #### Must (required)
 * All children must be made aware a photo/video is being taken prior to doing so.
-*	For safety, we have our own 'photo word' which must be said at all times before a photo is taken. This word is iconic to our school and is used to ensure all children know a photo is going to be taken. Our photo word is __“Swan”__.
+*	For safety, we have our own 'capture word' which must be said at all times before a photo or video is taken. This word is iconic to our school and is used to ensure all children know a photo or video is going to be taken. Our word is __“Swan”__.
 *	There must not be any media taken of a single, identifiable child.
 *	There must not be any media or videos taken which contain a child with identifiable features, such as name badges, drawers with names on etc.
 *	Audio contained within a video must not contain identifiable children's names.
 
 #### Should (recommended)
 *	Children should be shown the photo after it is taken.
-*	Photos should either contain no children or groups of 3-6 children. 
-* Employees should be aware that photos posted online may be resized by the platform they are uploaded to, and so should ensure that when they take a photo they consider what they photo would appear like it if is cropped either at the sides or the bottom. 
-* Employees should ensure they consider the backdrop to the photo or video they are taking, ensuring it is tidy and respectable.
+*	Photos should either contain no children or groups of 3-6 children, avoiding taking individual children where possible.
+* Employees should be aware that photos posted online may be resized by the platform they are uploaded to and so should consider what their photo would appear like if it is cropped either at the sides or the bottom. 
+* Employees should ensure they consider the backdrop of the photo or video they are taking, ensuring it is tidy, respectable and doesn't show the school in a negative light.
 
 #### May (optional)
-* Employees may experiment with artistic shots which may show show class work or events in more detail as opposed to a standard portrait.
+* Employees may experiment with artistic photos, including close-ups and editing using image editing apps.
 
 ### Posting to Social Media
 
@@ -80,7 +80,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Employees should not post about any school related matters on their own personal account.
 
 #### May (optional)
-* Employees may like, share, favorite, comment (or similar), school related content that has been published via official school accounts only.
+* Employees may like, share, favourite, comment (or similar) on school related content that has been published via official school accounts.
 * Employees may want to consider the time of day they are posting to maximise their audience.
 
 ### Engaging with Parents and Pupils
@@ -89,12 +89,11 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Employees must ensure they do not interact or post comments on Social Networks which may bring themselves or the school into disrepute.
 
 #### Should (recommended)
-* Employees should not connect or engage with any pupils on the current roll.
-* Engagement with pupils should only happen if the social network is age-appropriate.
+* Employees should not connect or engage with any pupils on the current school roll via Social Media.
 * Employees should only engage with parents, pupils and the public with regard to school matters via official school accounts.
 
 #### May (optional)
-* Employees may connect with parents/guardians of a pupil currently on roll if they are known on personal level.
+* Employees may connect with parents/guardians of a pupil currently on roll if they are known on a personal level.
 * Employees may engage and reply where possible via the official school accounts to increase engagement with others.
 *	Employees may share the content posted to official school accounts on their own accounts if they wish to.
 
@@ -109,7 +108,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Employees should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy.
 
 #### May (optional)
-* Employees may want to set up two factor authentication on their social media logins.
+* Employees may want to set up two factor authentication on their social media accounts for added security.
 
 ### Intellectual Property (IP)
 
@@ -123,7 +122,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Employees must not attempt to impersonate the school through an unofficial or spoof account.
 
 #### Should (recommended)
-*	Employees should always treat their peresonal account posts as public, even if an account has privacy settings enabled, as posts can always be screenshotted and shared.
+*	Employees should always treat their personal account posts as public, even if an account has privacy settings enabled which state otherwise, as posts can always be screenshotted and shared.
 
 #### May (optional)
 * Employees may have personal accounts on any social networks they choose.
