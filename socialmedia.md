@@ -139,6 +139,18 @@ The school will actively post on the following social networks: __Add Here__
 #### May (optional)
 * Employees may use their own devices to create content for social media.
 
+### Parental Responsibilites
+
+#### Must (required)
+* Parents must treat all interactions with an official school account as public.
+
+#### Should (recommended)
+* Parents should not tag other children in photographs, but are free to tag their own if they wish.
+
+#### May (optional)
+* Parents may interact, comment and share content posted on school official accounts as often as they wish.
+* Parents may invite others to like, follow, or equivalent, any of the school official accounts.
+
 ## Social Networks Explained
 #### Facebook
 * Mission: To give you the power to share and to make the world more open and connected.
