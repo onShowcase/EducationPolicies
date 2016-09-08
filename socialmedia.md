@@ -2,15 +2,15 @@
 
 ## Definitions
 
-* __Must__ - An absolute requirement.
+* Must - An absolute requirement.
 
-* __Must Not__ - An absolute prohibition.
+* Must Not - An absolute prohibition.
 
-* __Should__ - There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
+* Should - There may exist valid reasons in particular circumstances to ignore a particular item, but the full implications must be understood and carefully weighed before choosing a different course.
 
-* __Should Not__ - There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing.
+* Should Not - There may exist valid reasons in particular circumstances when the particular behavior is acceptable or even useful, but the full implications should be understood and the case carefully weighed before implementing.
 
-* __May__ - Optional.
+* May - Optional.
 
 ## Preface
 Social media use is increasing worldwide, particularly in the younger generations. We believe it is our duty as a school to harness the opportunity we have to lead from the front and educate our children on best practice and how to stay safe online.
@@ -31,9 +31,9 @@ There are many different social networks, each with a different mission, potenti
 
 We believe in having a presence on all social networks regardless of whether we actively use them, since this discourages others from creating accounts which mimic or falsely represent us and our school.
 
-The school will have a presence on the following social networks: __Facebook, Twitter, LinkedIn, Instagram, Pinterest, Snapchat and Youtube__. Where possible, the account will be listed as a business or company under the school’s name, rather than as a personal or individual. It is important for us, as a school, to maintain a presence on these platforms to discourage others from creating a derogatory account in our school's name.
+The school will have a presence on the following social networks: __Add Here__. Where possible, the account will be listed as a business or company under the school’s name, rather than as a personal or individual. It is important for us, as a school, to maintain a presence on these platforms to discourage others from creating a derogatory account in our school's name.
 
-The school will actively post on the following social networks: __Facebook, Twitter and Instagram.__
+The school will actively post on the following social networks: __Add Here__
 
 ### Our Account Names
 * Facebook: __Add Here__
@@ -50,7 +50,7 @@ The school will actively post on the following social networks: __Facebook, Twit
 
 #### Must (required)
 * All children must be made aware a photo/video is being taken prior to doing so.
-*	For safety, we have our own 'capture word' which must be said at all times before a photo or video is taken. This word is iconic to our school and is used to ensure all children know a photo or video is going to be taken. Our word is __“Swan”__.
+*	For safety, we have our own 'capture word' which must be said at all times before a photo or video is taken. This word is iconic to our school and is used to ensure all children know a photo or video is going to be taken. Our word is __Add Here__.
 *	There must not be any media taken of a single, identifiable child.
 *	There must not be any media or videos taken which contain a child with identifiable features, such as name badges, drawers with names on etc.
 *	Audio contained within a video must not contain identifiable children's names.
@@ -176,4 +176,4 @@ The school will actively post on the following social networks: __Facebook, Twit
 * Recommended Use: To share videos that promote your school and learning environment, such as: christmas videos, plays and shows, special assemblies.
 
 ## Misuse and Complaints
-If you feel that this policy is not being followed in some way, please let us know by contacting __the school office__.
+If you feel that this policy is not being followed in some way, please let us know by contacting __Add Here__.
