@@ -90,69 +90,109 @@ This section applies when capturing any content with a camera or microphone, on 
 
 #### May (optional)
 * Employees may experiment with artistic photos, including close-ups and editing using image editing apps as long as the photo is not edited to such a degree that the content could be misconstrued.
-> An example of an editing app would be Adobe Photoshop Express.
+> An example of an editing app would be: Adobe Photoshop Express
 
 ### Posting to Social Media
 This section applies when anything is posted to social media from a professional capacity.
 
 #### Must (required)
 * All school related content must be posted to official school accounts only. For reference, a list is contained in this document.
+> This is to ensure consistency in the content which is published. 
+
 * Employees must not post school related content on any of their personal accounts.
+> This is to ensure nothing is misconstrued when coming from a member of staff.
+
 * Posts must not contain any identifiable information within the text or media.
+> For child protection reasons, we don't include anything which may identify a child.
+
 * All posts must be considered public, regardless of where they are posted, and be treated as such.
+> Regardless of privacy settings, it is always possible for someone to screenshots and share a post or comment.
+
 * Employees must only upload media that they themselves have created and own the IP (intellectual property) to.
+> To avoid copyright issues, all content must be owned by us or our employees.
+
 * The school must keep a list of children who do not have parental consent to be online. This must be cross referenced before every post which contains media.
+> This is to ensure that there are no children posted online who do not have parental consent. 
+
 *	Employees must not post anything which may bring the school into disrepute or portray the school in a negative light.
+> All content must be checked to ensure it portrays the school positively.
+
 *	Children must not be tagged in photographs.
+> This is so that children can not be identified.
 
 #### Should (recommended)
 * There should not be any content posted by the school to a private page or closed group.
+> We do not advocate private conversations or places online as this goes against what we teach our children in terms of being open and honest, and not to have private conversations with strangers online.
+
 * Employees should not post about any school related matters on their own personal account.
+> Issues or school matters should be discussed in person, in school, rather than publicly online.
 
 #### May (optional)
 * Employees may like, share, favourite, comment (or similar) on school related content that has been published via official school accounts.
+> This increases engagement with our school accounts and encourages others to interact too. 
+
 * Employees may want to consider the time of day they are posting to maximise their audience.
+> Depending on the audience, people will be active (online) at certain times of the day. To reach the most people, it is preferable to post at the time when most people are likely to be active.
 
 ### Engaging with Parents and Pupils
 This section applies when the school, or employees, interact with others online via social media.
 
 #### Must (required)
 * Employees must ensure they do not interact or post comments on social networks which may bring themselves or the school into disrepute.
+> All comments must be checked to ensure accuracy and positivity.
 
 #### Should (recommended)
 * Employees should not connect or engage with any pupils on the current school roll via social media.
+> This is to ensure we keep parents and children safe. 
+
 * Employees should only engage with parents, pupils (where applicable) and the public with regard to school matters via official school accounts.
+> This is to ensure consistency with messages and responses from the school.
 
 #### May (optional)
 * Employees may connect with parents/guardians of a pupil currently on roll if they are known on a personal level.
+> There is nothing stopping an employee being connected to a parent of a pupil if they know each other outside of school. Care must always taken, however. 
+
 * Employees may engage and reply where possible via the official school accounts to increase engagement with others.
+> This encourages others to interact and ultimately increases the reach (amount of people who see the post, profile or page). 
+
 *	Employees may share the content posted to official school accounts on their own accounts if they wish to.
+> As the content is already in the online domain, there is no reason why an employee cannot then share the original post.
 
 ### Passwords and Security
 This section applies to the security of school accounts and personal accounts.
 
 ##### Must (required)
 *	Passwords to school social media accounts must remain safe and secure at all times.
-*	Passwords must not be shared between employees.
+> To avoid potential misuse or intrusion from unauthorised people.
+
+*	Passwords must not be shared between employees
+> Sharing passwords means actions are not then fully accountable to one person. A password per person is advised for this reason.
 
 ##### Should (recommended)
 * Employees should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy.
+> Two sets of eyes are far better than one in ensuring content complies with school policies.
 
 #### May (optional)
 * Employees may want to set up two factor authentication on their social media accounts for added security.
+> Two factor authentication ensures that when an account is accessed from a new device or browser, the user must enter a code which is sent to their personal mobile phone first. This stops unauthorised access.
 
 ### Managing School Accounts
 This section applies to the day to day management of official school accounts on social media.
 
 ##### Must (required)
 *	Content for social media must come from all teachers within the school.
+> It is important that all teachers contribute to ensure consistency of posts and so that all classes are included.
 
 ##### Should (recommended)
 *	Each class should create at least one post per day to upload to official school accounts.
+> The success of social media is down to interaction and engagement. The more posts, the more people who will see them and engage.
+
 *	Social networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. (For example: Tweetdeck, onShowcase)
+> Many social media management solutions allow users to manage multiple accounts in one place, saving time.
 
 #### May (optional)
 * All employees, whether they are teaching staff or not, may contribute to the school's bank of social media content if the wish.
+> Contributions from all members of the team is encouraged as it helps to build up an online brand.
 
 ### Intellectual Property (IP)
 This section applies to all media created by employees at the school.
