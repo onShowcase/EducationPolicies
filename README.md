@@ -12,7 +12,7 @@ All of our policies are free to use, with no strings attached.
 
 It is inevitable that all these policies will need to evolve over time, to account for changes in regulations, best practice and technology changes. To keep our policies up to date, we will release 3 kinds of updates:
 
-#### Major U[dates]
+#### Major Updates
 
 Major updates to content will include 'breaking changes' which means that other parts of the document will also need changing to comply with the new content. In this case, parts of the original policy are 'broken' hence the name 'breaking changes'.  
 
