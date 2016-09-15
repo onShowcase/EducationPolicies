@@ -48,6 +48,7 @@ The school will actively post on the following social networks: __Add Here__
 * Youtube: __Add Here__
 
 ## Usage and Best Practice
+To ensure we meet our aims, we have detailed best practice when using social media within our school.
 
 ### Taking Photographs and Videos
 
