@@ -1,5 +1,8 @@
 # Social Media Policy v0.1.0
 
+##How To Use
+It is intended that this document is taken by schools and used as their own Social Media Policy. This version includes statements to keep children, teachers and parents safe when using social media, but it is not an exhaustive document and we envisage schools customising the wording to suit their requirements where needed. 
+
 ## Definitions
 
 * Must - An absolute requirement.
