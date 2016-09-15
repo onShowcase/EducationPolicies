@@ -165,7 +165,7 @@ This section applies to the security of school accounts and personal accounts.
 *	Passwords to school social media accounts must remain safe and secure at all times.
 > To avoid potential misuse or intrusion from unauthorised people.
 
-*	Passwords must not be shared between employees
+*	Passwords must not be shared between employees.
 > Sharing passwords means actions are not then fully accountable to one person. A password per person is advised for this reason.
 
 ##### Should (recommended)
@@ -187,8 +187,8 @@ This section applies to the day to day management of official school accounts on
 *	Each class should create at least one post per day to upload to official school accounts.
 > The success of social media is down to interaction and engagement. The more posts, the more people who will see them and engage.
 
-*	Social networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. (For example: Tweetdeck, onShowcase)
-> Many social media management solutions allow users to manage multiple accounts in one place, saving time.
+*	Social networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password.
+> Many social media management solutions allow users to manage multiple accounts in one place, saving time. For example: Tweetdeck, onShowcase.
 
 #### May (optional)
 * All employees, whether they are teaching staff or not, may contribute to the school's bank of social media content if the wish.
