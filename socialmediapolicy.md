@@ -199,48 +199,70 @@ This section applies to all media created by employees at the school.
 
 ##### Must (required)
 *	All media posted must be owned by the person uploading, or the organisation they work for, before it is uploaded.
+> To avoid copyright issues, we must own the content ourselves.	
+
 *	Unless stated otherwise in an employment contract, all media and IP (intellectual property) remains the property of the person who created it. By posting it to a school account, employees give the school permission to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) the media.
+> This is to ensure we are allowed to share or adapt any content created by our employees.
 
 ### Personal Accounts on Social Networks
 This section applies to employees who use social media in a personal capacity.
 
 #### Must (required)
 * Employees must not attempt to impersonate the school through an unofficial or spoof account.
+> Spoof accounts are not a realistic representation of the school.
 
 #### Should (recommended)
-*	Employees should always treat their personal account posts as public, even if an account has privacy settings enabled which state otherwise, as posts can always be screenshotted and shared.
+*	Employees should always treat their personal account posts as public, even if an account has privacy settings enabled which state otherwise.
+> Posts can always be screenshotted and shared, which means nothing is ever really private.
 
 #### May (optional)
 * Employees may have personal accounts on any social networks they choose.
+> Social networks were initially created for personal use, so it would be unreasonable of us to enforce a 'do not use' policy for our employees.
 
 ### Using Personal Devices in School
 This section applies to employees who bring, carry, store or use a personal electronic device in school.
 
 #### Must (required)
 *	Any personal devices used to hold content from school must be secured with a password or pin.
+> This is to ensure the content is now copied or removed from the device easily by another person.
+
 *	Any school content kept on a personal device must only be kept for the minimum amount of time feasible, up to a maximum of a week.
+> This is to minimise the risk of someone with malicious intent getting hold of the content.
 
 #### Should (recommended)
 * If personal devices are used, the pin or password should be changed at least every 3 months.
+> This is standard for anyone with passwords or pins on devices to maximise security.
 
 #### May (optional)
 * Employees may use their own devices to create content for social media if they so wish.
+> Sometimes the best moments are spontaneous things that are not planned. For that reason, we want our team to be able to capture photos and videos as quickly as possible, with no restrictions on the device they use.
 
 ### Parental Responsibilites
 This section applies to parents who access official school channels on social media.
 
 #### Must (required)
-* Parents must treat all interactions with an official school account as public as it is possible that multiple employees may have access to the social media account. (For sensitive subjects, it is recommended to speak to the school directly.)
+* Parents must treat all interactions with an official school account as public.
+> Depending on how the social network is managed, it is possible that multiple employees have access to the account. For sensitive subjects, it is recommended that parents seek answers via a different means and speak to the school directly.
+
 * In line with our zero tag approach, parents must not tag children in photographs or knowingly publicly identify a child.
+> Identified children are at risk from child predators on the streets if they know their names.
 
 #### Should (recommended)
 * Parents should always keep in mind that their posts and interactions are public.
+> As everything can be screenshotted or shared, there is no such thing as a private post.
+
 * Parents should choose the most appropriate method of communication with the school depending on the matter in which they wish to discuss.
-* Parents should not expect a response from questions or comments posted on social media accounts as due to volume of visitors, they can be missed.
+> There are many communication methods open for parents to use which may be more suitable than online, including; visiting school, phone and email.
+
+* Parents should not expect a response from questions or comments posted on social media accounts.
+> Due to the nature of social media, messages and comments can sometimes be missed.
 
 #### May (optional)
 * Parents may interact, comment and share content posted on school official accounts as often as they wish.
+> Interacting with posts increases engagement and ultimately means our posts are seen by more people.
+ 
 * Parents may invite others to like, follow, or equivalent, any of the school official accounts.
+> The more people who follow or like our school accounts, the more people see our posts.
 
 ## Non-Compliance
 * Any breach of this policy, particular attention is drawn to those statements which are outlined as being 'required', may lead to disciplinary action being taken against those involved, in line with the school's disciplinary procedures.
