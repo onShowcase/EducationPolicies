@@ -59,6 +59,7 @@ This section applies when capturing any content with a camera or microphone, on 
 *	There must not be any media taken of a single, identifiable child.
 *	There must not be any media taken which contains a child with identifiable features, such as name badges, drawers with names on etc.
 *	Audio contained within a video must not contain identifiable children's names.
+*	Employees must not produce media in which children are inappropriately dressed, or contain nudity or profanity.
 
 #### Should (recommended)
 *	When possible, children should be shown the photo or video after it is taken, before it is published online.
@@ -113,11 +114,23 @@ This section applies to the security of school accounts and personal accounts.
 *	Passwords must not be shared between employees.
 
 ##### Should (recommended)
-*	Social networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. (For example: Tweetdeck for Twitter)
 * Employees should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy.
 
 #### May (optional)
 * Employees may want to set up two factor authentication on their social media accounts for added security.
+
+### Managing School Accounts
+This section applies to the day to day management of official school accounts on social media.
+
+##### Must (required)
+*	Content for social media must come from all teachers within the school.
+
+##### Should (recommended)
+*	Each class should create at least one post per day to upload to official school accounts.
+*	Social networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. (For example: Tweetdeck, onShowcase)
+
+#### May (optional)
+* All employees, whether they are teaching staff or not, may contribute to the school's bank of social media content if the wish.
 
 ### Intellectual Property (IP)
 This section applies to all media created by employees at the school.
@@ -161,6 +174,7 @@ This section applies to parents who access official school channels on social me
 #### Should (recommended)
 * Parents should always keep in mind that their posts and interactions are public.
 * Parents should choose the most appropriate method of communication with the school depending on the matter in which they wish to discuss.
+* Parents should not expect a response from questions or comments posted on social media accounts as due to volume of visitors, they can be missed.
 
 #### May (optional)
 * Parents may interact, comment and share content posted on school official accounts as often as they wish.
