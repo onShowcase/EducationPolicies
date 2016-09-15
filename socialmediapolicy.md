@@ -55,21 +55,42 @@ This section applies when capturing any content with a camera or microphone, on 
 
 #### Must (required)
 * All children must be made aware a photo/video is being taken prior to doing so.
-*	For safety, we have our own 'capture word' which must be said at all times before a photo or video is taken. This word is iconic to our school and is used to ensure all children know a photo or video is going to be taken. Our word is __Add Here__.
+> To ensure all children consent to the photo/video being taken and it is public knowledge. This protects the teacher and the children.
+
+*	For safety, we have our own 'capture word' which must be said at all times before a photo or video is taken. Our word is __Add Here__.
+> This word is iconic to our school and is used to ensure all children know a photo or video is going to be taken. 
+
 *	There must not be any media taken of a single, identifiable child.
+> Research suggests that if a child is called by his/her name, then they are more likely to interact with a stranger. To avoid this, we do not identify who the children are in any of our media.
+
 *	There must not be any media taken which contains a child with identifiable features, such as name badges, drawers with names on etc.
+> Identifiable features, such as books with stickers on and name badges, contribute to a stranger knowing who a specific child is.
+
 *	Audio contained within a video must not contain identifiable children's names.
+> For the same reasons above, it is important not to provide members of the public with a child's face and their name.
+
 *	Employees must not produce media in which children are inappropriately dressed, or contain nudity or profanity.
+> Besides the obvious, an inappropriate photograph or video could put the child, employee and the school at risk.
 
 #### Should (recommended)
 *	When possible, children should be shown the photo or video after it is taken, before it is published online.
+> This is to ensure children are aware of the photo or video which they are in and consent to it being published.	
+
 *	Photos should either contain no children or groups of 3-6 children, avoiding taking individual children where possible.
+> Individual children can be identified and so it is always best practice to photograph them in groups.	
+
 * Employees should be aware that photos posted online may be resized by the platform they are uploaded to and so should consider what their photo would appear like if it is cropped either at the sides or the bottom.
+> Many social networks have a default size or ratio in which they upload a photo. For example: Instagram is square.
+
 * Employees should also ensure they consider the backdrop of the photo or video they are taking, ensuring it is tidy, respectable and shows the school in a positive light.
+> It is not just the foreground of the photo or video which is important, the whole frame is what can be seen by the public.
+
 * Employees should remain sensitive to any children who appear uncomfortable.
+> Children have the right to remain out of any media taken if they feel uncomfortable as there could be a personal issue causing this.
 
 #### May (optional)
 * Employees may experiment with artistic photos, including close-ups and editing using image editing apps as long as the photo is not edited to such a degree that the content could be misconstrued.
+> An example of an editing app would be Adobe Photoshop Express.
 
 ### Posting to Social Media
 This section applies when anything is posted to social media from a professional capacity.
