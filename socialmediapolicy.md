@@ -182,7 +182,7 @@ This section applies to parents who access official school channels on social me
 * Parents may invite others to like, follow, or equivalent, any of the school official accounts.
 
 ## Non-Compliance
-* Any breach of this policy, particular attention is drawn to those statements which are 'required' by employees, may lead to disciplinary action being taken against those involved, in line with the school's disciplinary procedures.
+* Any breach of this policy, particular attention is drawn to those statements which are outlined as being 'required', may lead to disciplinary action being taken against those involved, in line with the school's disciplinary procedures.
 * The school will act as immediately as possible on any incidents where the safety of children, employees or parents is at risk. 
 
 ## Misuse and Complaints
