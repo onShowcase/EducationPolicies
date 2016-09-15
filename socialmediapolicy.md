@@ -66,6 +66,7 @@ This section applies when capturing any content with a camera or microphone, on 
 *	Photos should either contain no children or groups of 3-6 children, avoiding taking individual children where possible.
 * Employees should be aware that photos posted online may be resized by the platform they are uploaded to and so should consider what their photo would appear like if it is cropped either at the sides or the bottom.
 * Employees should also ensure they consider the backdrop of the photo or video they are taking, ensuring it is tidy, respectable and shows the school in a positive light.
+* Employees should remain sensitive to any children who appear uncomfortable.
 
 #### May (optional)
 * Employees may experiment with artistic photos, including close-ups and editing using image editing apps as long as the photo is not edited to such a degree that the content could be misconstrued.
@@ -179,6 +180,10 @@ This section applies to parents who access official school channels on social me
 #### May (optional)
 * Parents may interact, comment and share content posted on school official accounts as often as they wish.
 * Parents may invite others to like, follow, or equivalent, any of the school official accounts.
+
+## Non-Compliance
+* Any breach of this policy, particular attention is drawn to those statements which are 'required' by employees, may lead to disciplinary action being taken against those involved, in line with the school's disciplinary procedures.
+* The school will act as immediately as possible on any incidents where the safety of children, employees or parents is at risk. 
 
 ## Misuse and Complaints
 If you feel that this policy is not being followed in some way, please let us know by contacting __Add Here__.
