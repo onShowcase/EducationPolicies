@@ -51,6 +51,7 @@ The school will actively post on the following social networks: __Add Here__
 To ensure we meet our aims, we have detailed best practice when using social media within our school.
 
 ### Taking Photographs and Videos
+This section applies when capturing any content with a camera or microphone, on any device.
 
 #### Must (required)
 * All children must be made aware a photo/video is being taken prior to doing so.
@@ -69,6 +70,7 @@ To ensure we meet our aims, we have detailed best practice when using social med
 * Employees may experiment with artistic photos, including close-ups and editing using image editing apps.
 
 ### Posting to Social Media
+This section applies when anything is posted to social media in a professional capacity.
 
 #### Must (required)
 * All school related content must be posted to official school accounts only. A list is contained in this document.
@@ -91,6 +93,7 @@ To ensure we meet our aims, we have detailed best practice when using social med
 
 #### Must (required)
 * Employees must ensure they do not interact or post comments on Social Networks which may bring themselves or the school into disrepute.
+* Children must not bed tagged in photographs. We have a Zero Tag approach.
 
 #### Should (recommended)
 * Employees should not connect or engage with any pupils on the current school roll via Social Media.
@@ -108,7 +111,7 @@ To ensure we meet our aims, we have detailed best practice when using social med
 *	Passwords must not be shared between employees.
 
 ##### Should (recommended)
-*	Social Networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password.
+*	Social Networks should be managed either through a single person or via a social media management solution in which all users will have their own log in and password. (For example: Tweetdeck for Twitter)
 * Employees should ensure that content is checked by another member of the team before posting to ensure the content abides by the rules contained within this policy.
 
 #### May (optional)
@@ -118,7 +121,7 @@ To ensure we meet our aims, we have detailed best practice when using social med
 
 ##### Must (required)
 *	All media posted must be owned by the person uploading, or the organisation they work for, before it can be uploaded.
-*	Unless stated otherwise in an employment contract, all media and IP (intellectual property) remains the property of the person who created the media. By posting the content to a school account, permission is granted to the school to use the media under the Creative Commons License.
+*	Unless stated otherwise in an employment contract, all media and IP (intellectual property) remains the property of the person who created the media. By posting, employees give the school permission to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) the artwork.
 
 ### Personal Accounts on Social Networks
 
@@ -138,7 +141,8 @@ To ensure we meet our aims, we have detailed best practice when using social med
 *	Any school content kept on a personal device must only be kept for the minimum amount of time feasible, up to a maximum of a week.
 
 #### Should (recommended)
-* Passwords to personal devices should have their pin/passwords changed every 3 months (minimum).
+* Where possible, employees should avoid using personal devices to capture media content.
+* If they are used, passwords to personal devices should have their pin/passwords changed at least every 3 months.
 
 #### May (optional)
 * Employees may use their own devices to create content for social media.
@@ -146,10 +150,8 @@ To ensure we meet our aims, we have detailed best practice when using social med
 ### Parental Responsibilites
 
 #### Must (required)
-* Parents must treat all interactions with an official school account as public.
-
-#### Should (recommended)
-* Parents should not tag other children in photographs, but are free to tag their own if they wish.
+* Parents must treat all interactions with an official school account as public as it is possible that multiple employees have access to the social media account. For sensitive subjects, it is recommended to speak to the school directly.
+* In line with our Zero Tag approach, parents must not tag children in photographs.
 
 #### May (optional)
 * Parents may interact, comment and share content posted on school official accounts as often as they wish.
