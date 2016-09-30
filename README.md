@@ -1,7 +1,16 @@
-# Open Education Policies
+# Our Open Education Policies
 This repository has policies which can be adopted by schools. All policies are published under a MIT license which means a school can take them, doctor them as needed and store them for their own use.
 
-The aim of this repository is to provide schools with a base set of policies which outline good practice. In a world where computers and technology move so fast, we understand it isn't always possible to keep up.
+The aim of this repository is to provide schools with a base set of policies which outline good practice.
+
+## How to Contribute
+We welcome contributions from members of the public on our policies in two ways.
+
+* Create an Issue: These are primarily for paragraph additions or removals from the document, thoughts and questions. All submissions via this method must have a rationale behind them as to why you recommend this change. All issues are then public and can be commented on by anybody.
+* Create a Pull Request: For those who want to go ahead and edit the document directly because of grammatical errors or to re-word parts, this is the best option for you. 
+
+### Contributing to our Social Media Policy
+You will find the Social Media Policy here: https://github.com/onShowcase/EducationPolicies/blob/develop/socialmedia.md
 
 ## Instructions for Use
 
