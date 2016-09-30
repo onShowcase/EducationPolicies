@@ -55,6 +55,6 @@ Nothing is perfect and there is always room for iteration. If you see something 
 
 ### The policy does not work for my school, can you change it for me?
 
-In short, no. You are free to take a copy of the policy yourself and make the changes you wish. However, changes to the main rdocument will only happen if we think it is in the best interest of everyone using the polices.
+In short, no. You are free to take a copy of the policy yourself and make the changes you wish. However, changes to the main document will only happen if we think it is in the best interest of everyone using the polices.
 
 Our aim is to create a baseline policy that gives the most flexibility to to schools, whilst keeping students and teachers safe. We leave scope for schools to doctor the policy and 'lock down' aspects of it if they feel aspects are too liberal for them.
