@@ -1,7 +1,16 @@
-# Open Education Policies
+# Our Open Education Policies
 This repository has policies which can be adopted by schools. All policies are published under a MIT license which means a school can take them, doctor them as needed and store them for their own use.
 
-The aim of this repository is to provide schools with a base set of policies which outline good practice. In a world where computers and technology move so fast, we understand it isn't always possible to keep up.
+The aim of this repository is to provide schools with a base set of policies which outline good practice.
+
+## How to Contribute
+We welcome contributions from members of the public on our policies in two ways.
+
+* Create an Issue: These are primarily for paragraph additions or removals from the document, thoughts and questions. All submissions via this method must have a rationale behind them as to why you recommend this change. All issues are then public and can be commented on by anybody.
+* Create a Pull Request: For those who want to go ahead and edit the document directly because of grammatical errors or to re-word parts, this is the best option for you. 
+
+### Contributing to our Social Media Policy
+You will find the Social Media Policy here: https://github.com/onShowcase/EducationPolicies/blob/develop/socialmedia.md
 
 ## Instructions for Use
 
@@ -12,7 +21,7 @@ All of our policies are free to use, with no strings attached.
 
 It is inevitable that all these policies will need to evolve over time, to account for changes in regulations, best practice and technology changes. To keep our policies up to date, we will release 3 kinds of updates:
 
-#### Major U[dates]
+#### Major Updates
 
 Major updates to content will include 'breaking changes' which means that other parts of the document will also need changing to comply with the new content. In this case, parts of the original policy are 'broken' hence the name 'breaking changes'.  
 
@@ -46,6 +55,6 @@ Nothing is perfect and there is always room for iteration. If you see something 
 
 ### The policy does not work for my school, can you change it for me?
 
-In short, no. You are free to take a copy of the policy yourself and make the changes you wish. However, changes to the main rdocument will only happen if we think it is in the best interest of everyone using the polices.
+In short, no. You are free to take a copy of the policy yourself and make the changes you wish. However, changes to the main document will only happen if we think it is in the best interest of everyone using the polices.
 
 Our aim is to create a baseline policy that gives the most flexibility to to schools, whilst keeping students and teachers safe. We leave scope for schools to doctor the policy and 'lock down' aspects of it if they feel aspects are too liberal for them.
