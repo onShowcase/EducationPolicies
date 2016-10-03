@@ -6,7 +6,7 @@ The aim of this repository is to provide schools with a base set of policies whi
 ## How to Contribute
 We welcome contributions from members of the public on our policies in two ways.
 
-* Create an Issue: These are primarily for paragraph additions or removals from the document, thoughts and questions. All submissions via this method must have a rationale behind them as to why you recommend this change. All issues are then public and can be commented on by anybody. It is suggested that you create one issue per point to make it easier for people to follow and express their opinions.
+* Create an Issue: These are primarily for paragraph additions or removals, thoughts and questions. All submissions via this method must have a rationale behind them as to why you recommend this change. All issues are then public and can be commented on by anybody. It is suggested that you create one issue per point to make it easier for people to follow and express their opinions. Create an issue by going to the 'issues' tab within the document.
 
 * Create a Pull Request: For those who want to go ahead and edit the document directly because of grammatical errors or to re-word parts, this is the best option for you. 
 
