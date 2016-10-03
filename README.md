@@ -11,7 +11,7 @@ We welcome contributions from members of the public on our policies in two ways.
 * Create a Pull Request: For those who want to go ahead and edit the document directly because of grammatical errors or to re-word parts, this is the best option for you. 
 
 ### Contributing to our Social Media Policy
-You will find the Social Media Policy here: https://github.com/onShowcase/EducationPolicies/blob/develop/socialmedia.md
+You will find the Social Media Policy [here](socialmedia.md)
 
 ## Instructions for Use
 

@@ -1,4 +1,4 @@
-# Social Media Policy v0.1.0
+# Social Media Policy v0.2.0
 
 ##Intended Use
 It is intended that this document is taken by schools and used as a Social Media Policy.
